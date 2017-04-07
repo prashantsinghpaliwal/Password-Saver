@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "394462013148",
+    "firebase_url": "https://prashant-keeper.firebaseio.com",
+    "project_id": "prashant-keeper",
+    "storage_bucket": "prashant-keeper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394462013148:android:e990c52a0f880fe5",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.passwordkeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394462013148-73rvi5l65fou53bl50kc0hj2den00q7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.rosehulman.passwordkeeper",
+            "certificate_hash": "FE3AFC16685D462D566B1EA7E9F9E1D890FD15F0"
+          }
+        },
+        {
+          "client_id": "394462013148-ilgika6lapldi7e3d1krjo90ujstehe5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDE7oqCwiRYI6-TjNiiMnX7eEZtRqq5Mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394462013148-ilgika6lapldi7e3d1krjo90ujstehe5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
